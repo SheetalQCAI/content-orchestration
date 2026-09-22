@@ -41,6 +41,8 @@ env/                   # Covers cases where env might be at project root
 /backend/*.pyo
 /backend/*.pyd
 /backend/my-credentials.json
+/backend/*.backup
+
 
 
 
