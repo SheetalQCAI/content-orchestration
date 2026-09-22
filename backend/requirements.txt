@@ -7,3 +7,5 @@ Flask-Cors
 python-dotenv
 google-cloud-vision
 requests
+Flask-JWT-Extended
+
